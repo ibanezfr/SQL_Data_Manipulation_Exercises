@@ -1,6 +1,6 @@
 -- Visualiza los nombres de las tablas que componen la base de datos.
 
-.tables;
+.tables
 
 -- RESULTADO:
 -- sqlite> .tables
