@@ -3,10 +3,13 @@ Un repositorio con ejercicios prácticos para mejorar tus habilidades en
 consultas SQL de acceso y modificación de datos.
 
 ---
+- Northwind:
+  - [Ejercicios](./exercises/northwind/)
+  - [Soluciones](./solutions/northwind/)
 
-- [Ejercicios](./exercises)
-- [Soluciones](./solutions)
-
+- Chinook:
+  - [Ejercicios](./exercises/chinook/)
+  - [Soluciones](./solutions/chinook/)
 ---
 
 ### El DBMS utilizado será:
@@ -18,6 +21,7 @@ consultas SQL de acceso y modificación de datos.
 - [Northwind-SQLite3](https://github.com/jpwhite3/northwind-SQLite3/tree/main#northwind-sqlite3)
 
 #### Referencias:
+- [Command Line Shell For SQLite](https://www.sqlite.org/cli.html)
 - [SQL Language Reference](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/Basic-Elements-of-Oracle-SQL.html#GUID-41D065C3-3449-4DAE-B2D8-4DF256FFC88A)
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 

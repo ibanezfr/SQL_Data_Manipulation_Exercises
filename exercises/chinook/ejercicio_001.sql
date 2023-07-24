@@ -1,0 +1,1 @@
+-- Visualiza los nombres de las tablas que componen la base de datos.
