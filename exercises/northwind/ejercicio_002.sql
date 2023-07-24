@@ -1,0 +1,2 @@
+-- Visualiza el esquema de una tabla en particular he interpreta el resultado
+-- obtenido.
