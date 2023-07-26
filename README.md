@@ -3,13 +3,15 @@ Un repositorio con ejercicios prácticos para mejorar tus habilidades en
 consultas SQL de acceso y modificación de datos.
 
 ---
-- Northwind:
-  - [Ejercicios](./exercises/northwind/)
-  - [Soluciones](./solutions/northwind/)
 
 - Chinook:
   - [Ejercicios](./exercises/chinook/)
-  - [Soluciones](./solutions/chinook/)
+  - [Soluciones](./exercises/chinook/solutions/)
+
+- Northwind:
+  - [Ejercicios](./exercises/northwind/)
+  - [Soluciones](./exercises/northwind//solutions/)
+
 ---
 
 ### El DBMS utilizado será:
